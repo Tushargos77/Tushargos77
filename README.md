@@ -41,6 +41,12 @@
 # 🛠️ Tech Stack
 
 ### Languages
+-Python
+-C
+-Java
+-JavaScript
+-HTML
+-C++
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,html,css,js" />
