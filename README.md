@@ -70,12 +70,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tushargos77&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tushargos77&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://streak-stats.demolab.com?user=Tushargos77&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushargos77&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tushargos77&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🧠 LeetCode Stats
@@ -90,7 +90,6 @@
 <img src="https://raw.githubusercontent.com/Tushargos77/Tushargos77/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<sub>⚠️ The snake graphic shows my contribution overall 
 <br/>
 
 ## 📬 Connect With Me
