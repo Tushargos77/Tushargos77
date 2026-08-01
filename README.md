@@ -90,8 +90,7 @@
 <img src="https://raw.githubusercontent.com/Tushargos77/Tushargos77/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<sub>⚠️ The snake graphic only appears after you set up the GitHub Action (see setup notes below) and it runs at least once.</sub>
-
+<sub>⚠️ The snake graphic shows my contribution overall 
 <br/>
 
 ## 📬 Connect With Me
