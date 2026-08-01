@@ -1,116 +1,107 @@
-<h1 align="center">Hi 👋, I'm Tushar Goswami</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Science+Enthusiast;Machine+Learning+Enthusiast;Django+Developer;DSA+Learner" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=200&section=header&text=Hi%20👋,%20I'm%20Tushar%20Goswami&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20|%20Data%20Science%20|%20Machine%20Learning&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/Tushargos77">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tushar-goswami-164334278">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tusharprasadgoswami@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://github.com/Tushargos77"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/tushar-goswami-164334278"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://tushargos.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-FF6D00?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:tusharprasadgoswami@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
----
+</div>
 
-# 👨‍💻 About Me
+<br/>
 
-🎓 **B.Tech in Electronics & Communication Engineering**  
-🏫 Asansol Engineering College (2023–2027)
+## 🧑‍🎓 About Me
 
-💡 Passionate about Software Development, Data Science, Machine Learning, and Problem Solving.
+- 🎓 **B.Tech in Electronics & Communication Engineering**
+- 🏫 Asansol Engineering College (2023 – 2027)
+- 💡 Passionate about Software Development, Data Science, Machine Learning, and Problem Solving
+- 🌱 Currently building projects with **Python, Django, React & Three.js**
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/tushar-goswami-164334278)
 
----
+<br/>
 
-# 🚀 Skills
+## 🚀 Skills
 
 - 🐍 Python
 - 🌐 Django
 - 📊 Data Science
 - 🤖 Machine Learning
-- 🧠 Data Structures & Algorithms
+- 🧬 Data Structures & Algorithms
 - 🌿 Git & GitHub
 
----
+<br/>
 
-# 🛠️ Tech Stack
+## 🧰 Tools & Tech Grid
 
-### Languages
--Python
--C
--Java
--JavaScript
--HTML
--C++
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=django" width="40"/><br/>Django</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/>C++</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="40"/><br/>Java</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML</td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/>VS Code</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=threejs" width="40"/><br/>Three.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind</td>
+</tr>
+</table>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,html,css,js" />
-</p>
+**Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook
 
-### Frameworks & Tools
+<br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=django,git,github,vscode" />
-</p>
+## 📌 Featured Projects
 
-### Data Science
+- 🌐 **[3D Interactive Portfolio Website](https://tushargos.vercel.app)** — built with React, Three.js, React Three Fiber, Tailwind CSS, and Vite
+- 🐍 Python Projects
+- 📊 Data Science Projects
+- 🤖 Machine Learning Projects
+- 🧠 LeetCode Solutions
 
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Jupyter Notebook
+<br/>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tushargos77&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushargos77&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Tushargos77&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📌 Featured Projects
-
-🚀 3D Portfolio Website
-
-🌐 Django Projects
-
-📊 Data Science Projects
-
-🤖 Machine Learning Projects
-
-🐍 Python Projects
-
-📚 LeetCode Solutions
-
----
-
-# 🌐 Connect With Me
-
-📧 **Email:**  
-tusharprasadgoswami@gmail.com
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/tushar-goswami-164334278
-
-🐙 **GitHub:**  
-https://github.com/Tushargos77
-
----
+## 📊 GitHub Stats
 
 <p align="center">
-⭐ <b>Thanks for visiting my profile!</b> ⭐
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tushargos77&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com?user=Tushargos77&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushargos77&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Tushargos7?theme=dark&font=baloo2&ext=heatmap" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Tushargos77/Tushargos77/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<sub>⚠️ The snake graphic only appears after you set up the GitHub Action (see setup notes below) and it runs at least once.</sub>
+
+<br/>
+
+## 📬 Connect With Me
+
+- 📧 **Email:** tusharprasadgoswami@gmail.com
+- 💼 **LinkedIn:** [tushar-goswami-164334278](https://www.linkedin.com/in/tushar-goswami-164334278)
+- 🐙 **GitHub:** [Tushargos77](https://github.com/Tushargos77)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=100&section=footer" width="100%"/>
+
+</div>
