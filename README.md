@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=200&section=header&text=Hi%20👋,%20I'm%20Tushar%20 Prasad Goswami&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20|%20Data%20Science%20|%20Machine%20Learning&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=200&section=header&text=Hi%20👋,%20I'm%20Tushar%20Goswami&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20|%20Data%20Science%20|%20Machine%20Learning&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Tushargos77"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/tushar-goswami-164334278"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
